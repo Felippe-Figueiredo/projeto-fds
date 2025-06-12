@@ -1,0 +1,94 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightsteelblue;
+}   
+
+h1{  
+    color: midnightblue;       
+    text-align: center;     
+}    
+
+p{
+    font-size: larger;
+    text-align: justify;    
+} 
+
+main{
+    float: left;
+    margin: 10px 10px 25px 10px;
+}
+
+.botao{
+    background-color: midnightblue;
+    font-size: large;    
+    color: white;
+    border: 0px solid midnightblue;
+    border-radius: 20px;
+    margin-top: -10px;
+    padding: 10px 175px;
+    cursor: pointer;
+}
+
+#para1{
+    font-size: large;
+    text-align: center;
+}
+
+.espaçamento li{
+    margin-bottom: 25px;
+    font-size: large;
+} 
+
+.academia{
+    border-radius: 30px;
+    width: 600px; 
+}
+
+.site{
+    background-color: midnightblue;
+    font-size: large;
+    max-width: fit-content;
+    border: 5px solid midnightblue;
+    border-radius: 20px;
+    margin: 20px 50px 0 0;    
+}  
+
+.para2{
+    color: rgb(255, 255, 255);
+    margin: 20px 90px;
+}
+
+.link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.link:hover{
+    color: rgb(0, 248, 248);
+    text-decoration: underline;
+}    
+
+.tabela{
+    font: italic bold 1.5em Arial, Helvetica, sans-serif;    
+    color: midnightblue;
+    text-align: center;
+    width: 700px;
+    width: 40%;
+    border: 3px solid midnightblue;
+    padding: 5px;    
+}  
+
+td, th{
+    border: 1px solid black;
+}
+
+.paises{
+    padding: 0 70px 0 70px;    
+}     
+
+.imagens{
+    width: 380px;
+}    
